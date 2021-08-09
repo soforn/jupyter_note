@@ -1,0 +1,4 @@
+# 安裝unrar
+apt-get install rar unrar
+# x表示保留RAR裡面路径
+unrar x simpsons_dataset.rar
