@@ -2,3 +2,7 @@
 apt-get install rar unrar
 # x表示保留RAR裡面路径
 unrar x simpsons_dataset.rar
+# 壓縮 myfile1 myfile2 為 archive.rar
+rar a archive.rar myfile1 myfile2
+
+
